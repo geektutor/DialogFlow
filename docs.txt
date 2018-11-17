@@ -1,0 +1,4 @@
+https://developers.google.com/calendar/v3/reference/calendars
+http://www.timezoneconverter.com/cgi-bin/zonehelp.tzc
+https://dialogflow.com/docs/training-analytics/training
+https://designguidelines.withgoogle.com/conversation/conversation-design/welcome.html
