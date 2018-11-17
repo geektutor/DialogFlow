@@ -1,0 +1,1 @@
+While intents allow your agent to understand the motivation behind a particular user input, entities are used to pick out specific pieces of information that your users mention — anything from street addresses to product names or amounts with units. Any important data you want to get from a user's request will have a corresponding entity.
